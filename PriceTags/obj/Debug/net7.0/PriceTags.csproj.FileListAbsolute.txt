@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\PriceTags\PriceTags\bin\Debug\net7.0\PriceTags.exe
+C:\codigos\projetos C#\PriceTags\PriceTags\bin\Debug\net7.0\PriceTags.deps.json
+C:\codigos\projetos C#\PriceTags\PriceTags\bin\Debug\net7.0\PriceTags.runtimeconfig.json
+C:\codigos\projetos C#\PriceTags\PriceTags\bin\Debug\net7.0\PriceTags.dll
+C:\codigos\projetos C#\PriceTags\PriceTags\bin\Debug\net7.0\PriceTags.pdb
+C:\codigos\projetos C#\PriceTags\PriceTags\obj\Debug\net7.0\PriceTags.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\PriceTags\PriceTags\obj\Debug\net7.0\PriceTags.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\PriceTags\PriceTags\obj\Debug\net7.0\PriceTags.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\PriceTags\PriceTags\obj\Debug\net7.0\PriceTags.AssemblyInfo.cs
+C:\codigos\projetos C#\PriceTags\PriceTags\obj\Debug\net7.0\PriceTags.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\PriceTags\PriceTags\obj\Debug\net7.0\PriceTags.dll
+C:\codigos\projetos C#\PriceTags\PriceTags\obj\Debug\net7.0\refint\PriceTags.dll
+C:\codigos\projetos C#\PriceTags\PriceTags\obj\Debug\net7.0\PriceTags.pdb
+C:\codigos\projetos C#\PriceTags\PriceTags\obj\Debug\net7.0\PriceTags.genruntimeconfig.cache
+C:\codigos\projetos C#\PriceTags\PriceTags\obj\Debug\net7.0\ref\PriceTags.dll
