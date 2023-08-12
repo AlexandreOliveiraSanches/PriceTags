@@ -18,7 +18,8 @@ namespace PriceTags.Entities
 
         public override string PriceTag()
         {
-            return Name
+            return "- "
+                + Name
                 + "(used) $"
                 + Price.ToString("F2", CultureInfo.InvariantCulture)
                 + " (Manufacture date: "

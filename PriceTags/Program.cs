@@ -25,9 +25,11 @@ namespace PriceTags
                 string name = Console.ReadLine();
                 Console.Write("Price: ");
                 double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                if (resp == 'c' || resp == 'C')
+                if (resp == 'u' || resp == 'U')
                 {
-                    list.Add(new Product(name, price));
+                    Console.Write("Manufacture date (DD/MM/YYYY): ");
+                    DateTime date = DateTime.Parse(Console.ReadLine());
+                    list.Add(new UsedProduct(name, price, date));
                 }
 
                 else if(resp == 'i' || resp == 'I')
@@ -39,9 +41,7 @@ namespace PriceTags
 
                 else
                 {
-                    Console.Write("Manufacture date (DD/MM/YYYY): ");
-                    DateTime date = DateTime.Parse(Console.ReadLine());
-                    list.Add(new UsedProduct(name, price, date));
+                    list.Add(new Product(name, price));
                 }
             }
 

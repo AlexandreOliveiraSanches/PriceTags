@@ -19,7 +19,8 @@ namespace PriceTags.Entities
 
         public virtual string PriceTag()
         {
-            return Name
+            return "- "
+                + Name
                 + " $"
                 + Price.ToString("F2", CultureInfo.InvariantCulture);
         }
